@@ -26,7 +26,7 @@ Mon expertise couvre la construction de tableaux de bord, l’automatisation de 
 | [Participation au jeu concours organisé par SNCF](https://github.com/Fomba-Daouda/sncf_prediction) | Séries Temporelles | Prédiction  | apprentissage des données  | Python | 
 | [ANALYSE TEXTUELLE ET ANALYSE DE SENTIMENTS](https://github.com/Fomba-Daouda/Projet_DE) | TENSORFLOW | KERAS |  R/SHINY | 
 | [Réalisation d'un dashboard permettant de selection un corpus pour un modèle TAL](https://github.com/Fomba-Daouda/Text-Selection-Dashboard) | Python | 
-| [Logiciel de gestions des plaies]([https://github.com/Fomba-Daouda/Projet_DE](https://github.com/Fomba-Daouda/listing_component)) | React JS | 
+| [Logiciel de gestions des plaies](https://github.com/Fomba-Daouda/listing_component)) | React JS | 
 ---
 
 ## 📫 Me contacter
