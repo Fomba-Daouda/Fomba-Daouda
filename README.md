@@ -21,7 +21,7 @@ Mon expertise couvre la construction de tableaux de bord, l’automatisation de 
 |--------|-------------|--------|
 | [Analyse E-commerce](https://github.com/Fomba-Daouda/Analyse-des-Fabricants-PowerBi-) | Suivi clients, produits, ventes | Power BI |
 | [Tutoriel : Analyse des ventes](https://github.com/Fomba-Daouda/SuperStore) | Tuto sur la fonction selectedValue de DAX| Power BI |
-| [Analyse des fréquences des velibs dans les stations](https://github.com/Fomba-Daouda/automatisation-reporting) | Automatisation des données | Rapport Power BI |
+| [Analyse des fréquences des velibs dans les stations](https://github.com/Fomba-Daouda/Velib) | Automatisation des données | Rapport Power BI |
 | [Scrapping du site officiel du basket feminin ](https://github.com/Fomba-Daouda/web-scrapping-LFB) |Récupération, Néttoyage | Analyse des données |Python |
 | [Participation au jeu concours organisé par SNCF](https://github.com/Fomba-Daouda/sncf_prediction) | Séries Temporelles | Prédiction  | apprentissage des données  | Python | 
 | [ANALYSE TEXTUELLE ET ANALYSE DE SENTIMENTS](https://github.com/Fomba-Daouda/Projet_DE) | TENSORFLOW | KERAS |  R/SHINY | 
