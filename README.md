@@ -1,6 +1,7 @@
 # 👋 Hello, je suis Daouda Fomba – Data Analyst Freelance
 
-🎯 J’aide les PME et les entrepreneurs à **prendre de meilleures décisions grâce à la data** : tableaux de bord, automatisation de reporting, analyse clients ou ventes.
+🎯 J’aide les entreprises – PME comme grands groupes, notamment dans les secteurs retail et bancaire – à mieux exploiter leurs données pour prendre des décisions éclairées.
+Mon expertise couvre la construction de tableaux de bord, l’automatisation de reporting, et l’analyse avancée des données clients, commerciales ou financières.
 
 ---
 
@@ -10,7 +11,7 @@
 - 🗃️ **SQL** (PostgreSQL, MySQL), **GCP**
 - 🧼 Nettoyage, transformation et visualisation de données
 - 🔄 Automatisation de reporting
-- 📈 Analyse commerciale, e-commerce, analyse des stocks
+- 📈 Analyse commerciale,bancaire, analyse des stocks
 
 ---
 
